@@ -149,7 +149,7 @@ nav a:hover, nav a.active {
     overflow: hidden;
 }
 
-#theme-toggle .fa-fir, #theme-toggle .fa-wind {
+#theme-toggle .fa-fir, #theme-toggle .fa-snowflake {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -157,7 +157,7 @@ nav a:hover, nav a.active {
     transition: transform 0.4s ease-in-out;
 }
 
-#theme-toggle .fa-wind {
+#theme-toggle .fa-snowflake {
     transform: translate(-50%, 150%);
 }
 
@@ -165,7 +165,7 @@ body.dark-theme #theme-toggle .fa-fire {
     transform: translate(-50%, -150%);
 }
 
-body.dark-theme #theme-toggle .fa-wind {
+body.dark-theme #theme-toggle .fa-snowflake {
     transform: translate(-50%, -50%);
 }
 
